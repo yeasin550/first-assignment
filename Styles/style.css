@@ -24,6 +24,9 @@
     padding: 0px 0px 32px 550px;
   }
   /* button start */
+  .btn-primary:hover{
+    background-color: red;
+  }
   .btn-primary {
     background-color: orangered;
     color: white;
@@ -99,11 +102,10 @@
     background-image: url('../images/watch.png');
     background-repeat: no-repeat;
     width: 800px;
-    height: 200px;
+    height: 100px;
     text-align: left;
-    margin: 0 auto;
-    padding-left: 100px;
-    padding: 100px ;
+    margin: 100px auto;
+    padding: 100px 100px ;
     color: white;
   }
   .always-keep h1{
@@ -135,7 +137,7 @@
 height: 40px;
  }
  .btn-primary-one{
-  background-color: orangered;
+  background-color: red;
   color: white;
   padding: 20px 25px;
   border: none;
