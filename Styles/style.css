@@ -99,7 +99,7 @@
   }
   /* img linearGradient img */
   .always-keep{
-    background-image: url('../images/watch.png');
+    background-image: url('../images/gradient2.png') ,url('../images/watch.png');
     background-repeat: no-repeat;
     width: 800px;
     height: 100px;
@@ -139,7 +139,7 @@ height: 40px;
  .btn-primary-one{
   background-color: red;
   color: white;
-  padding: 20px 25px;
+  padding: 20px 25px ;
   border: none;
   border-radius: 6px;
   font-family:'Times New Roman', Times, serif;
