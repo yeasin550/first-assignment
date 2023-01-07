@@ -67,6 +67,16 @@
     font-weight: 400;
     text-align: left;
     line-height: 25px;
+    width: 260px;
+  }
+  li{
+    list-style: none;
+    height: 28px;
+    background-size: 26px;
+    background-repeat: no-repeat;
+    padding-left: 45px;
+    align-items: center;
+    background-image: url('../images/checkmark.jpg');
   }
   /* my plan img and title,description */
   .my-plan {
